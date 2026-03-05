@@ -1,20 +1,6 @@
 # Hi 👋, I'm Tsunami-lin
 
 ### 我遗忘了所有悲剧，看到的都是奇迹
-
-- 🔭 I'm currently working on **🌫️🌫️🌫️🌫️🌫️
-正在探索中....
-🌫️🌫️🌫️🌫️🌫️**
-
-- 🌱 I'm currently learning **1️⃣正在开发一款基于CocosCreator3.X的像素横板跳跃游戏，具体进度请查看下属项目
-2️⃣Lua进阶，TypeSript进阶**
-
-- 👯 I'm looking to collaborate on **我需要pink权限🤣**
-
-- 💬 Ask me about **Cocos Creator3.x（No pink），JavaScript，TypeScript，pixi.js**
-
-- ⚡ Fun fact **1️⃣项目中多数的素材都是我自己绘制的，但确实学艺不精。
-2️⃣其实我也在暗暗开发我的第一款正式游戏，名字暂时为“雪裙子”，是关于芭蕾舞者故事。
 **
 
 <h3 align="left">Connect with me:</h3>
