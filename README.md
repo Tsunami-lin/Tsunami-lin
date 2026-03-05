@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tsunami-lin
+# 嗨 👋, 我是 Tsunami-lin
 
 ### 我遗忘了所有悲剧，看到的都是奇迹
 
