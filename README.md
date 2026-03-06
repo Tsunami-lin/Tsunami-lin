@@ -1,6 +1,7 @@
 
-<img width="423" height="458" alt="tile" src="https://github.com/user-attachments/assets/cbf4eb02-8162-468d-af4b-d3b8fcb17f60" />
-
+<p align="center">
+  <img width="25%" alt="tile" src="https://github.com/user-attachments/assets/cbf4eb02-8162-468d-af4b-d3b8fcb17f60" />
+</p>
 # 嗨 👋, 我是 Tsunami-lin
 
 ### 我遗忘了所有悲剧，看到的都是奇迹
