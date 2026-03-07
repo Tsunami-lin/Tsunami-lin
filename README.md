@@ -8,15 +8,15 @@
   
 <tr><td>
 
-###  About Me
+###  About Me 
 <img align="right" width="15%" height="450" alt="me" src="https://github.com/user-attachments/assets/282f5c86-8d39-4ad2-9c66-b39a578af57f" />
 
 
 
-<p>&emsp;&emsp;<font color="#2f4f4f">嗨，我是Peter-JXL。热爱编程、读书、健身、旅行。</font></p>
-<p>&emsp;&emsp;想要自己“实现”一台计算机，从零开始写 CPU + 操作系统 + 编译原理 + 网络协议 +......</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;<font color="#2f4f4f">你好，我是Tsunami—lin。热爱编程、读书、音乐、绘画。</font></p>
+<p>&emsp;&emsp;我致力创造一个承载我灵魂的游戏【持续发力中】</p>
+<p>&emsp;&emsp;我会放下所有遗憾，清空所有不快，用代码守护此刻的美好</p>
+<p>&emsp;&emsp;<strong>I leave behind all sorrows, clear away all unease, and guard the beauty of now with code.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</strong></p>
 
 </td></tr>
 
