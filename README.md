@@ -1,5 +1,5 @@
 <p align="center" style="padding-left: 50px;">
-  <img width="17%" alt="tile" src="https://github.com/user-attachments/assets/cbf4eb02-8162-468d-af4b-d3b8fcb17f60" style="vertical-align: middle;" />
+  <img width="17%" alt="tile" src="./mdimg/tile.png" style="vertical-align: middle;" />
   <img style="vertical-align: middle; margin-left: 30px;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78E32&width=435&lines=Hello+I+am+Tsuanmi+lin+Welcome" alt="Typing SVG" />
 </p>
 
@@ -9,7 +9,7 @@
 <tr><td>
 
 ###  About Me 
-<img align="right" width="15%" height="450" alt="me" src="https://github.com/user-attachments/assets/282f5c86-8d39-4ad2-9c66-b39a578af57f" />
+<img align="right" width="15%" height="450" alt="me" src="./mdimg/me.png" />
 
 
 
