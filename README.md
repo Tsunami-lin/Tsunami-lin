@@ -13,7 +13,7 @@
 
 
 
-<p>&emsp;&emsp;嗨，我是Peter-JXL。热爱编程、读书、健身、旅行。</p>
+<p>&emsp;&emsp;<font color="#2f4f4f">嗨，我是Peter-JXL。热爱编程、读书、健身、旅行。</font></p>
 <p>&emsp;&emsp;想要自己“实现”一台计算机，从零开始写 CPU + 操作系统 + 编译原理 + 网络协议 +......</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
